@@ -1,7 +1,7 @@
 package = "mrcp-utils"
 version = "1.0-0"
 source = {
-   url = "https://github.com/MayamaTakeshi/lua_mrcp_utils",
+   url = "git://github.com/MayamaTakeshi/lua_mrcp_utils",
    tag = "1.0-0",
 }
 description = {
